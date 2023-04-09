@@ -189,7 +189,8 @@
             },
             dispatchResizeEvent() {
                 //используется для обхода бага библиотеки AOS
-                window.dispatchEvent(new Event('resize'))
+                window.dispatchEvent(new Event('resize'));
+                console.log('работает');
             }
         },
         mounted() {
