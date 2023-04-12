@@ -24,9 +24,9 @@
                     </a>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2 py-2">
-                    <a class="link" href="https://instagram.com/alexlev174" target="_blank">
-                        <i class="pi pi-instagram"></i>
-                        <b class="mx-2">Instagram</b>
+                    <a class="link" href="https://www.linkedin.com/in/alexander-levitskiy-9a42b9272/" target="_blank">
+                        <i class="pi pi-linkedin"></i>
+                        <b class="mx-2">LinkedIn</b>
                     </a>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2 py-2">
